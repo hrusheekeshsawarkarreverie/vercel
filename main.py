@@ -7,5 +7,5 @@ app = FastAPI() # This is what will be refrenced in config
 
 @app.get('/')
 def start():
-    message = "App is running!"
+    message = "App is runninnnng!"
     return message
